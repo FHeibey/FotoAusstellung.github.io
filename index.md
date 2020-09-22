@@ -61,24 +61,7 @@
 <img src="55.jpg"/>
 <img src="56.jpg"/>
 <img src="57.jpg"/>
-<img src="58.jpg"/>
-<img src="59.jpg"/>
-<img src="60.jpg"/>
-<img src="61.jpg"/>
-<img src="62.jpg"/>
-<img src="63.jpg"/>
-<img src="64.jpg"/>
-<img src="65.jpg"/>
-<img src="66.jpg"/>
-<img src="67.jpg"/>
-<img src="68.jpg"/>
-<img src="69.jpg"/>
-<img src="70.jpg"/>
-<img src="71.jpg"/>
-<img src="72.jpg"/>
-<img src="73.jpg"/>
-<img src="74.jpg"/>
-<img src="75.jpg"/>
+
 <img src="76.jpg"/>
 <img src="77.jpg"/>
 <img src="78.jpg"/>
