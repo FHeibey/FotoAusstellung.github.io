@@ -1,8 +1,13 @@
 
+<style>
+#Bilder{
+  padding-bottom: 0.5rem;
+  }
+
+</style>
 
 
-
-
+<div id = "Bilder">
 <img src="1.jpg"/>1
 <img src="2.jpg"/>2
 <img src="3.jpg"/>3
@@ -108,3 +113,7 @@
 <img src="120.jpg"/>102
 <img src="121.jpg"/>103
 <img src="122.jpg"/>104
+
+
+</div>
+
