@@ -6,7 +6,7 @@ margin: 0px;
 .Bild{
 
 border: 1px solid #000000;
- display: flex;
+ display: block;
 
 
 }
