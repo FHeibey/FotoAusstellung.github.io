@@ -1,5 +1,6 @@
 *{
 margin: 0px;
+  padding:0px
 }
 
 .Bild{
@@ -8,4 +9,8 @@ height: 99vh;
 border: 1px solid #000000;
 
 
+}
+img{
+ width: 99vh;
+height: 99vh; 
 }
