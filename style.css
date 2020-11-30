@@ -7,10 +7,14 @@ margin: 0px;
 
 border: 1px solid #000000;
  display: block;
+  width: 100%;
 
 
 }
 img{
- width: 99vh;
-height: auto;
+  
+max-width: 100%;
+max-height: auto;
+  width: auto; 
+  height: auto;
 }
