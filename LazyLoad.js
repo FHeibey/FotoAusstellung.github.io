@@ -1,4 +1,4 @@
-const targets = document.querySelectorAll('Bild');
+const targets = document.querySelectorAll('.Bild');
 
 const lazyLoad = target => {
   const io = new IntersectionObserver((entries, observer) => {
