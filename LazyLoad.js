@@ -2,7 +2,6 @@ const targets = document.querySelectorAll('img');
 
 const lazyLoad = target => {
   const io = new IntersectionObserver((entries, observer) => {
-    console.log(entries)
     entries.forEach(entry => {
      
 
