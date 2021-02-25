@@ -23,6 +23,6 @@ max-height: 90vh;
   height: auto;
  margin: auto;
 }
-.footer{
+footer, .footer {
  font-size: 0.5rem !important;
 }
