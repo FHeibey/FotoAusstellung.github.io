@@ -1,0 +1,28 @@
+*{
+margin: 0px;
+padding:0px;
+font-size: 3rem;
+}
+
+.Bild{
+
+border: 1px solid #000000;
+ display: block;
+  width: 100%;
+  max-heightL: 100vh;
+  width. auto;
+  height: auto;
+  
+
+}
+img{
+  
+max-width: 90vw;
+max-height: 90vh;
+  width: auto; 
+  height: auto;
+ margin: auto;
+}
+footer, .footer {
+ font-size: 1rem !important;
+}
