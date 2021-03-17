@@ -9,7 +9,7 @@ const lazyLoad = target => {
         const img = entry.target;
         const src = img.getAttribute('data-lazy');
 
-        img.setAttribute('src', src);
+        img.setAttribute('src', "assets/"+src);
 
 
         observer.disconnect();
